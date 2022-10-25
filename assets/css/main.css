@@ -1,0 +1,17 @@
+.container-sm{
+    background-color: white;
+}
+ .wrapper-image img{
+    margin-top: -270px;
+    margin-left: 500px;
+}
+.wrapper-text .text{
+    margin-left: 500px;
+}
+ .wrapper-content .text-end{
+    left: 780px;
+    position: relative;
+ }
+ .wrapper-image  .text-start{
+  margin-left: 40px;
+ }
